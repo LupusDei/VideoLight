@@ -1,3 +1,3 @@
-<h1> VideoLight </h1>
+VideoLight
 This is a Video Converter created in Limelight.  The production is actually just a user interface and is sending commands to ffmpeg.  You must have ffmpeg installed to use this, and I plan on creating an auto-installer soon.  It can convert pretty much and video type into pretty much and video type (Actually, jsut .flv, .mp4, .mpeg right now, but I will add a bunch more next commit).
 
